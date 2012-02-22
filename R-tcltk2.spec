@@ -9,10 +9,9 @@ Group:            Sciences/Mathematics
 License:          file LICENSE
 URL:              http://cran.r-project.org/web/packages/%{packname}/index.html
 Source0:          http://cran.r-project.org/src/contrib/%{packname}_1.1-5.tar.gz
-Requires:         R-tcltk 
-Requires:         R-utils 
-BuildRequires:    R-devel Rmath-devel texlive-collection-latex R-tcltk
-BuildRequires:    R-utils 
+Requires:         R-tcltk R-utils
+BuildRequires:    R-devel Rmath-devel texlive-collection-latex
+BuildRequires:    R-tcltk R-utils
 
 %description
 A series of additional Tcl commands and Tk widgets with style and various
