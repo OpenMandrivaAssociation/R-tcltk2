@@ -4,13 +4,13 @@
 %define debug_package %{nil}
 
 Name:             R-%{packname}
-Version:          1.2.4
+Version:          1.2.5
 Release:          1
 Summary:          Tcl/Tk Additions
 Group:            Sciences/Mathematics
 License:          file LICENSE
 URL:              http://cran.r-project.org/web/packages/%{packname}/index.html
-Source0:          http://cran.r-project.org/src/contrib/tcltk2_1.2-4.tar.gz
+Source0:          http://cran.r-project.org/src/contrib/tcltk2_1.2-5.tar.gz
 Requires:         R-tcltk 
 Requires:         R-utils 
 BuildRequires:    R-devel Rmath-devel texlive-collection-latex R-tcltk
@@ -61,5 +61,6 @@ rm -f %{buildroot}%{rlibdir}/R.css
 + Revision: 776343
 - Import R-tcltk2
 - Import R-tcltk2
+
 
 
