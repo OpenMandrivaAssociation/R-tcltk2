@@ -55,6 +55,7 @@ rm -f %{buildroot}%{rlibdir}/R.css
 %{rlibdir}/%{packname}/help
 %{rlibdir}/%{packname}/po
 %{rlibdir}/%{packname}/tklibs
+%{rlibdir}/tcltk2/test.R
 
 
 
