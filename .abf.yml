@@ -1,4 +1,5 @@
 removed_sources:
   tcltk2_1.2-4.tar.gz: 05d68d6b5b7b54227813e438729474f5bb7c856c
-sources:
   tcltk2_1.2-5.tar.gz: 034057e7191dcf63fbf17bf0d07060a94f3c9f25
+sources:
+  tcltk2_1.2-10.tar.gz: 3408a2f7efdd7148622e68058e17f5aa8961efa2
