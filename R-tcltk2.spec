@@ -5,7 +5,7 @@
 
 Name:             R-%{packname}
 Version:          1.2.10
-Release:          1
+Release:          2
 Summary:          Tcl/Tk Additions
 Group:            Sciences/Mathematics
 License:          file LICENSE
