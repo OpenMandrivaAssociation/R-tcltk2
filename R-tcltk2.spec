@@ -9,7 +9,7 @@ Release:          2
 Summary:          Tcl/Tk Additions
 Group:            Sciences/Mathematics
 License:          file LICENSE
-URL:              http://cran.r-project.org/web/packages/%{packname}/index.html
+URL:              https://cran.r-project.org/web/packages/%{packname}/index.html
 Source0:          http://cran.r-project.org/src/contrib/tcltk2_1.2-10.tar.gz
 Source1:	  %{name}.rpmlintrc
 Requires:         R-tcltk 
